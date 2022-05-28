@@ -1061,8 +1061,6 @@
 
 17.0.4  -   Added: HBO Max Movie/Series Catalog [https://github.com/Purfview/IMDb-Scout-Mod/pull/110].
 
-
-
 */
 //==============================================================================
 //    JSHint directives.
